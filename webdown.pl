@@ -1,24 +1,11 @@
 #!/usr/bin/perl
 use IO::Socket;
-##########################################################
-##		 _______ _______  		 #
-##		 |______ |______  \    /		 #
-##		 ______| |______   \  /		 #
-##		                    /\    		 #
-##Le dam sa sara in sus <3 	   /  \ #
-##Baiatu nu schimba aici datele ca tot Samburel e regele 	 #
-##Created By Samburel                                        #
-##Hai cu un subscribe la SamburelYT                                      #
-## Ii dai flood si beleste pula                                 #
-##samburelyt@gmail.com                                   #
-##OARKA POWER                                               #
-##########################################################
 
 print q{
 ############################################################
-#       Samburel flood arhive DDOS attack premium	   #
+#       Star flood arhive DDOS attack premium	   #
 #		Testeat pe site-uri de top			   #
-#	    created By Samburel si nicio echipa bro am destul intelect sa-l fac singur <3           #
+#	    created By Star hvh bai          #
 ############################################################
 };
 $rand=rand(10);
